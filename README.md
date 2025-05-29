@@ -38,8 +38,8 @@
 - **期間**: 2024年6月 - 2024年8月（3ヶ月）
 
 - [デモはこちら](https://geocation.gps-share.net/homepage.php)
-- ユーザー名: demo
-- パスワード: demo
+ ユーザー名: demo, 
+ パスワード: demo
 
 ### ✈️ [JoyJaunt - 海外旅行サポートアプリ](https://github.com/TT0144/joyjaunt)
 - **技術スタック**: Flask, Python, JavaScript, MySQL, Docker

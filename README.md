@@ -78,15 +78,15 @@
 - **G検定勉強**: 次に向けて勉強中です！！
 
 ## 📈 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?TT0144=[your-TT0144]&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?TT0144=[your-TT0144]&layout=compact&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?TT0144=[TT0144]&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?TT0144=[TT0144]&layout=compact&theme=radical)
 
 ## 🌱 学習・成長への姿勢
 
 ### 技術キャッチアップ
 - **日課**: 技術記事読み（Qiita、Zenn）
-- **アウトプット**: ネッ友のプログラミング初心者の方への講座を月3で（現在はpython,mysqlを教えてます）
-- **コミュニティ**: 地域のエンジニア勉強会に定期参加
+- **アウトプット**: ネッ友のプログラミング初心者の方への講座を月2~3で（現在はpython,mysqlを教えてます）
+- **コミュニティ**: 現役エンジニア3人、エンジニア希望2人で身内でできる簡単なゲームを制作してたりしてます(百人一首,itoなど)
 
 ### 2025年の目標
 - [ ] 草をめちゃ生やす

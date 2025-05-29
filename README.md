@@ -1,4 +1,4 @@
-# 👋 Hello, I'm [あなたの名前]
+# 👋 こんにちは！27卒の戸塚達哉です！
 
 ## 🎯 希望職種 | Target Position
 - **第一希望**: AIエンジニア
@@ -6,20 +6,20 @@
 - **関心分野**: WebAPI開発、データサイエンティスト、システム設計
 
 ## 💻 得意な言語・技術 | Tech Stack
-### Programming Languages
+### 言語 | Programming Languages
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=php&logoColor=white)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 
-### Frameworks & Libraries
+### フレームワーク & ライブラリ | Frameworks & Libraries
 ![Flask](https://img.shields.io/badge/-Flask-000000?style=flat&logo=flask&logoColor=white)
 ![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?style=flat&logo=laravel&logoColor=white)
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
 
-### Databases & Tools
+### データベース & ツール | Databases & Tools
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![Nginx](https://img.shields.io/badge/-Nginx-009639?style=flat&logo=nginx&logoColor=white)
@@ -27,14 +27,13 @@
 
 ## 🚀 主な制作物 | Featured Projects
 
-### 🌍 [Geocation - オーバーツーリズム解決プラットフォーム](https://github.com/username/geocation)
+### 🌍 [Geocation - オーバーツーリズム解決プラットフォーム](https://github.com/TT0144/geocation)
 - **技術スタック**: HTML5, CSS3, JavaScript, PHP, MySQL, Nginx, Docker
 - **概要**: オーバーツーリズム問題を解決するため、観光客の分散化を図るWebプラットフォーム
 - **主な機能**: 
   - 隠れた観光スポットの発見・投稿機能
-  - 観光地の混雑状況可視化
-  - 自治体と観光客のマッチングシステム
-- **役割**: バックエンド開発、データベース設計、サーバー環境構築
+  - スポット投稿に対してのリアクション機能
+- **役割**: バックエンド全般、データベース設計、 いいね・★評価機能
 - **特徴**: Docker環境での開発、レスポンシブデザイン、リアルタイムデータ処理
 - **期間**: 2024年6月 - 2024年8月（3ヶ月）
 
@@ -43,7 +42,8 @@
 - **概要**: 海外旅行初心者向けの包括的サポートWebアプリケーション
 - **主な機能**:
   - パーソナライズされたパッキングリスト生成
-  - 危険地帯アラート（位置情報ベース）
+  - 危険地帯アラート（入力値ベース）
+  - 天気服装
 - **役割**: フルスタック開発（Flask API設計、フロントエンド実装）
 - **特徴**: RESTful API設計、リアルタイム通知機能、
 - **期間**: 2024年11月 - 2024年2月（4ヶ月）
@@ -71,20 +71,21 @@
 
 - **研究期間**: 2024年4月～
 - **概要**: 
-  - 複数のAPI Gateway（Kong, Zuul, Envoy）の性能比較
-  - レスポンス時間、スループット、リソース使用量の測定・分析
-  - 企業規模別の最適な設計パターンの提案
-- **使用技術**: Docker, Kubernetes, Prometheus, Grafana
-- **現在の進捗**: 実験環境構築完了、性能測定実施中
+- Vision Transformer(ViT)による手ジェスチャー認識で人間の入力を自然に受け取る。
+- プレイヤーの履歴から傾向を抽出する行動分析モジュール。
+- 相手の戦略に対してメタ的に反応するAIエージェントの戦術設計。
+- 今後の応用として、強化学習による適応や戦略強化も視野に。
+- **使用技術**: OpenCV,MediaPipe,VisionTransformer,PyTorch,numpy
+- **現在の進捗**: プレイヤー/AIの基盤構築、ゲームロジック、ViT&MediaPipeの連携完了
 
 ### 学習中の技術
 - **クラウド技術**: AWS（EC2, RDS, Lambda）の学習
-- **DevOps**: CI/CDパイプライン構築の実践
-- **アーキテクチャ設計**: マイクロサービス設計パターンの深掘り
+- **plantUML**: シーケンス図、状態遷移図などをコードで書けるように
+- **G検定勉強**: 次に向けて勉強中です！！
 
 ## 📈 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=[your-username]&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=[your-username]&layout=compact&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?TT0144=[your-TT0144]&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?TT0144=[your-TT0144]&layout=compact&theme=radical)
 
 ## 🌱 学習・成長への姿勢
 
@@ -94,17 +95,13 @@
 - **コミュニティ**: 地域のエンジニア勉強会に定期参加
 
 ### 2025年の目標
-- [ ] AWS認定デベロッパーアソシエイト取得
-- [ ] OSS貢献（月1回のPull Request）
-- [ ] 技術ブログのフォロワー500人達成
+- [ ] 草をめちゃ生やす
 - [ ] チーム開発経験の積み重ね
 
 ## 📫 Contact
-- **Email**: your.email@example.com
-- **LinkedIn**: [linkedin.com/in/yourname](https://linkedin.com/in/yourname)
-- **Portfolio**: [yourportfolio.com](https://yourportfolio.com)
-- **Blog**: [yourblog.com](https://yourblog.com)
-
+- **メール**: ttytotsuka0826@gmail.com
+- **ポートフォリオ**: 準備中
+- **ブログ**: 準備中
 ---
 
 💡 **新しい技術への挑戦と、チームでの価値創造を大切にしています。**  

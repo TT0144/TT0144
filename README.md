@@ -82,8 +82,8 @@
 - **G検定勉強**: 次に向けて勉強中です！！
 
 ## 📈 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=[TT0144]&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=[TT0144]&layout=compact&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=TT0144&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TT0144&layout=compact&theme=radical)
 
 ## 🌱 学習・成長への姿勢
 

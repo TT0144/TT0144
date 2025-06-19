@@ -37,7 +37,7 @@
 - **特徴**: Docker環境での開発、レスポンシブデザイン、リアルタイムデータ処理
 - **期間**: 2024年6月 - 2024年8月（3ヶ月）
 
-- [デモはこちら](https://geocation.gps-share.net/homepage.php)
+- [デモはこちら](https://geocation.keyi9029.com)
  ユーザー名: demo, 
  パスワード: demo
 

@@ -41,7 +41,7 @@
  ユーザー名: demo, 
  パスワード: demo
 
-### ✈️ [JoyJaunt - 海外旅行サポートアプリ(git準備中)](https://github.com/TT0144/joyjaunt)
+### ✈️ [JoyJaunt - 海外旅行サポートアプリ](https://github.com/TT0144/joyjaunt)
 - **技術スタック**: Flask, React, Python, JavaScript, MySQL, Docker
 - **概要**: 海外旅行初心者向けの包括的サポートWebアプリケーション
 - **主な機能**:

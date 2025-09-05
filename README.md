@@ -49,14 +49,11 @@
   - バックエンド設計・開発（認証/DB/API設計/自動化）
   - 外部API統合（GitHub, Google Fit）
   - Cronジョブ等のバッチ処理
-- **開発期間**: 2024年9月 - 2025年1月（チーム4名/バックエンドメイン）
+- **開発期間**: 2025年4月 - 2025年9月（チーム7名/バックエンドメイン）
 - **成果**:
   - 8つの主要APIエンドポイント実装
   - GitHub/Google Fit完全統合
   - バックグラウンド自動処理、TypeScript完全対応
-- [詳細README](https://github.com/WEB-IT-2025/Fithub_Backend)
-- [API仕様書](docs/api/)
-- [認証フロー図解](docs/auth-flow.md)
 
 ---
 

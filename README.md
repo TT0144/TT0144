@@ -1,11 +1,11 @@
-# 👋 こんにちは！27卒の戸塚達哉です！
+# 27卒の戸塚達哉です
 
-## 🎯 希望職種 | Target Position
+## 希望職種 | Target Position
 - **第一希望**: AIエンジニア
 - **第二希望**: バックエンドエンジニア
 - **関心分野**: WebAPI開発、データサイエンティスト、システム設計
 
-## 💻 得意な言語・技術 | Tech Stack
+## 得意な言語・技術 | Tech Stack
 ### 言語 | Programming Languages
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
@@ -32,9 +32,9 @@
 
 ---
 
-## 🚀 主な制作物 | Featured Projects
+## 主な制作物 | Featured Projects
 
-### 🏃‍♂️ [Fithub - フィットネスとコーディングを融合した健康促進プラットフォーム](https://github.com/WEB-IT-2025/Fithub_Backend)
+### [Fithub - フィットネスとコーディングを融合した健康促進プラットフォーム](https://github.com/WEB-IT-2025/Fithub_Backend)
 
 **Fithub**は、プログラマーの運動不足を解決するために開発されたWebアプリケーション。GitHubのコミット活動とGoogle Fitの運動データを統合し、「バーチャルペット育成」を通じて楽しく健康習慣を身につけられます。
 
@@ -57,7 +57,7 @@
 
 ---
 
-### 🌍 [Geocation - オーバーツーリズム解決プラットフォーム](https://github.com/TT0144/geocation)
+### [Geocation - オーバーツーリズム解決プラットフォーム](https://github.com/TT0144/geocation)
 - **技術スタック**: HTML5, CSS3, JavaScript, PHP, MySQL, Nginx, Docker
 - **概要**: オーバーツーリズム問題を解決するため、観光客の分散化を図るWebプラットフォーム
 - **主な機能**: 
@@ -72,7 +72,7 @@
 
 ---
 
-### ✈️ [JoyJaunt - 海外旅行サポートアプリ](https://github.com/TT0144/joyjaunt)
+### [JoyJaunt - 海外旅行サポートアプリ](https://github.com/TT0144/joyjaunt)
 - **技術スタック**: Flask, React, Python, JavaScript, MySQL, Docker
 - **概要**: 海外旅行初心者向けの包括的サポートWebアプリケーション
 - **主な機能**:
@@ -84,7 +84,7 @@
 
 ---
 
-## 🔬 現在の研究内容 | Current Research
+## 現在の研究内容 | Current Research
 
 ### 「CCレモンゲーム最強AI研究」
 - **ゲーム説明**:
@@ -103,11 +103,11 @@
 - **クラウド技術**: AWS（EC2, RDS, Lambda）
 - **G検定勉強**: 次に向けて勉強中
 
-## 📈 GitHub Stats
+## GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=TT0144&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TT0144&layout=compact&theme=radical)
 
-## 🌱 学習・成長への姿勢
+## 学習・成長への姿勢
 
 ### 技術キャッチアップ
 - **日課**: 技術記事読み（Qiita、Zenn）
@@ -119,7 +119,7 @@
 - [ ] 草をめちゃ生やす
 - [ ] チーム開発経験の積み重ね
 
-## 📫 Contact
+## Contact
 - **メール**: ttytotsuka0826@gmail.com
 - **ポートフォリオ**: https://tt0144.github.io/portfolio/
 - **ブログ**: 準備中
